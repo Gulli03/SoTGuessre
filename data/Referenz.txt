@@ -1,0 +1,22 @@
+Id system: ABCD
+A: Island Type
+B: Region
+C: Size
+D: ID
+
+Island Type:
+0 - Island
+1 - Outpost
+2 - Fort
+3 - Shrine
+
+Region:
+0 - Ancient Isles
+1 - Devils Roar
+2 - No Region
+3 - Shores of Plenty
+4 - The Wilds
+
+Size:
+0 - Big
+1 - Small
