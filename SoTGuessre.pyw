@@ -77,7 +77,7 @@ Island_LookUp = [
     ("1000", "Ancient Spire Outpost"),      #69
     ("1001", "Plunder Outpost"),            #70
     ("1100", "Morrow's Peak Outpost"),      #71
-    ("1300", "Golden Sands Outpost"),       #72
+    ("1300", "New Golden Sands Outpost"),   #72
     ("1301", "Sanctuary Outpost"),          #73
     ("1400", "Dagger Tooth Outpost"),       #74
     ("1401", "Galleon's Grave"),            #75
